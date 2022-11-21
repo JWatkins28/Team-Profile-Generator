@@ -18,7 +18,9 @@ const generateHTML = (cards) => {
     
         <main>
             <div id="container-for-cards" class="row row-cols-2 row-cols-md-2 g-4">
+                <!-- Cards go here -->
                 ${getCards(cards)}
+                <!-- Cards end here -->
             </div>
         </main>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script>    

@@ -2,7 +2,11 @@
 
 ## **Description**
 
-This project will let you create a cleanly formatted team roster based on your user input. You add a Manager, and then any number of Engineers and Interns. Once you're finished filling out the prompts the program will generate an HTML page to the "dist" folder with your generated page. There's also CSS to go along with it.
+This project will let you create a cleanly formatted team roster based on your user input. You add a Manager, and then any number of Engineers and Interns. Once you're finished filling out the prompts the program will generate an HTML page to the "dist" folder with your generated page. There's also CSS styling to go along with it. This the a large project and the first involving jest tests as well as generating more complex data using inquirer. It was fairly challenging and I feel like I learned a lot! 
+
+The repo for this project can be found at: https://github.com/JWatkins28/Team-Profile-Generator
+
+A sample HTML file can be found at: https://github.com/JWatkins28/Team-Profile-Generator/blob/a82a34fcaed195799a25527e103da02deb9cae4e/dist/index.html
 
 ---
 
@@ -46,7 +50,7 @@ npm start
 
 ---
 
-## **Screenshots & Video**
+## **Screenshots**
 
 First Install the Dependencies
 \
@@ -75,15 +79,16 @@ View your newly generated HTML page in the dist folder
 Viewing your HTML page in a browser should look like the following: 
 \
 ![index.html in a browser](./assets/Final.PNG)
-\
+
 
 ---
 
-## **Video Tutorial**
+## **Video**
 A video on how to install and run this program can be viewed by clicking the screenshot below: 
-[![](./assets/Video.PNG)](https://drive.google.com/file/d/1cpYWgFdUt3BhgN_8-TayVFXD8VZmGch7/view)
 
-Or clicking this link: [https://drive.google.com/file/d/1XrrypB45H4V_qKwFgxUY0eWpuM3CBrkD/view](https://drive.google.com/file/d/1XrrypB45H4V_qKwFgxUY0eWpuM3CBrkD/view)
+[![](./assets/Video.PNG)](https://drive.google.com/file/d/1XrrypB45H4V_qKwFgxUY0eWpuM3CBrkD/view?usp=sharing)
+
+Or clicking this link: [https://drive.google.com/file/d/1XrrypB45H4V_qKwFgxUY0eWpuM3CBrkD/view?usp=sharing](https://drive.google.com/file/d/1XrrypB45H4V_qKwFgxUY0eWpuM3CBrkD/view?usp=sharing)
 
 ---
 
