@@ -1,0 +1,50 @@
+* {
+    font-family: 'Roboto', serif;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+body {
+    height: 100vh;
+}
+
+#top-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15%;
+}
+
+main {
+    height: 80%;
+    margin: 1%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    font-size: 10px;
+}
+
+/* footer >  */
+a {
+    text-decoration: none;
+    color: gray;
+    cursor: pointer;
+}
+
+a:hover {
+    transition: 0.2s;
+    color:  lightgray;
+}
+
+#container-for-cards {
+    margin: 0px;
+}
+
+.card {
+    padding: 0px;
+    margin: 24px;
+}
